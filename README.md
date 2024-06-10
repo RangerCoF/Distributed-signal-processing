@@ -1,7 +1,7 @@
 # Distributed-signal-processing
 Assignment for EE4540 Distributed signal processing <br />
 
-In this project, we designed a randomly distributed sensor network of 100 nodes that can monitor the temperature of a square area of $100 \times 100 m^2$. <br />
+In this project, we designed a randomly distributed sensor network of 100 nodes that can monitor the temperature of a square area of $100 \times 100 \ m^2$. <br />
 
 To calculate the averaging, we implemented the following distributed algorithms: <br />
 *  Randomized Gossip
